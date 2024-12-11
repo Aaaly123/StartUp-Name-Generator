@@ -82,10 +82,10 @@ A web-based application built with **Node.js**, **Express**, **EJS**, and **CSS3
 ## **Screenshots**
 
 ### Home Page "/" Route
-![Startup Name Generator Home Page](public/images/screenshot1.png "Startup Name Generator Home Page")
+![Startup Name Generator Home Page](public/images/screenshot1.png)
 
 ### After Pressing Generate Button "/submit" Route
-![Startup Name Generator Home Page](public/images/screenshot2.png "Startup Name Generator")
+![Startup Name Generator Home Page](public/images/screenshot2.png)
 
 ---
 
