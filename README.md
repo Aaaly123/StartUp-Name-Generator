@@ -109,5 +109,3 @@ For questions or suggestions, feel free to reach out:
 - **Email**: aliyanahmednaqvi@gmail.com
 
 ---
-
-Feel free to update placeholders such as `<your-username>` and `<repo-name>` with your actual GitHub details and project name. Let me know if you need further edits!
