@@ -1,0 +1,15 @@
+<%- include("partials/header.ejs") %>
+  <% if(locals.adjective && locals.noun) {%>
+    <h2>
+      <%= adjective %>
+        <%= noun %>
+    </h2>
+    <% } else { %>
+      <h1>Welcome to the Startup Name Generator</h1>
+      <% } %>
+
+        <form action="/submit" method="POST">
+          <input type="submit" value="Generate Name" />
+        </form>
+
+        <%- include("partials/footer.ejs") %>
