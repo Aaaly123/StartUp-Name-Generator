@@ -72,7 +72,7 @@ A web-based application built with **Node.js**, **Express**, **EJS**, and **CSS3
 │   ├── partials/
 │   │   ├── header.ejs      # Header component
 │   │   └── footer.ejs      # Footer component
-├── app.js                  # Main application file
+├── index.js                  # Main application file
 ├── package.json            # Dependencies and scripts
 └── README.md               # Documentation
 ```
